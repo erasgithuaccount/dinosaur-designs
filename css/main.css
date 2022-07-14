@@ -14,9 +14,9 @@ img {
 }
 
 h1, h2 {
+  font-family: Patua;
   color: #5d8432;
   text-transform: uppercase;
-  font-family: "Patua One", sans-serif;
 }
 
 figcaption {
@@ -26,9 +26,9 @@ figcaption {
 }
 
 nav {
+  font-family: Patua;
   font-size: 1.125rem;
   font-weight: bold;
-  font-family: "Patua One", sans-serif;
 }
 
 nav ol {
@@ -38,12 +38,10 @@ nav ol {
 nav a {
   color: #793284;
   text-decoration: none;
-  font-family: "Patua One", sans-serif;
 }
 
 nav a:hover {
   color: #b42885;
-  text-decoration: underline;
 }
 
 .intro {
