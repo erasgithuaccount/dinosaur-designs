@@ -1,15 +1,11 @@
-html{
 html {
   box-sizing: border-box;
   background-color: #f2f1ed;
-  font-family: Georgia,serif;
   font-family: Georgia, serif;
-  line-height: 1.5;
+  line-height:1.5;
 }
-
-*,*::before,*::after{
 *, *::before, *::after {
-  box-sizing: inherit;
+  box-sizing:inherit;
 }
 
 img {
