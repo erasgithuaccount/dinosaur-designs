@@ -20,7 +20,7 @@ h1, h2 {
 }
 
 figcaption {
-@ -28,12 +28,18 @@ figcaption {
+@ -28,12 +28,18 @ figcaption {
 nav {
   font-size: 1.125rem;
   font-weight: bold;
